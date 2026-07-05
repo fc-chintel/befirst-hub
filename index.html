@@ -5,22 +5,29 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>BE:FIRST HUB</title>
 <meta name="description" content="BE:FIRSTの新着ニュース・最新動画・スケジュールをひとつの画面で。">
-<meta name="theme-color" content="#0d0d13">
+<meta name="theme-color" content="#0a0a0e">
 <link rel="manifest" href="manifest.webmanifest">
 <link rel="icon" type="image/png" sizes="32x32" href="icons/favicon-32.png">
 <link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 <meta name="apple-mobile-web-app-title" content="BE:FIRST HUB">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Anton&family=Roboto+Condensed:wght@300;400;700&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="assets/style.css">
 </head>
 <body>
 
 <header class="topbar">
   <div class="topbar-inner">
-    <h1 class="logo">BE:FIRST <span>HUB</span></h1>
+    <h1 class="logo">BE<span class="colon">:</span>FIRST<span class="hub">HUB</span></h1>
     <span class="updated" id="updatedAt"></span>
   </div>
+  <nav class="tabs">
+    <a class="tab active" href="index.html">HOME</a>
+    <a class="tab" href="members.html">MEMBER</a>
+  </nav>
 </header>
 
 <main>
@@ -35,7 +42,7 @@
   <!-- 新着ニュース -->
   <section class="section">
     <div class="section-head">
-      <h2>新着ニュース</h2>
+      <h2 class="sec"><span class="en">NEWS</span><span class="ja">(新着ニュース)</span></h2>
       <a class="more" href="https://befirst.tokyo/news/" target="_blank" rel="noopener">公式サイトへ →</a>
     </div>
     <div id="newsList" class="news-list">
@@ -47,7 +54,7 @@
   <!-- 最新動画 -->
   <section class="section">
     <div class="section-head">
-      <h2>最新動画</h2>
+      <h2 class="sec"><span class="en">MOVIE</span><span class="ja">(最新動画)</span></h2>
       <a class="more" href="https://www.youtube.com/channel/UCi_AquB9uaI3-9xXkuWG7IQ" target="_blank" rel="noopener">チャンネルへ →</a>
     </div>
     <div id="videoList" class="video-grid">
@@ -58,7 +65,7 @@
   <!-- 今後の予定 -->
   <section class="section">
     <div class="section-head">
-      <h2>今後の予定</h2>
+      <h2 class="sec"><span class="en">SCHEDULE</span><span class="ja">(今後の予定)</span></h2>
     </div>
     <div id="eventList" class="event-list"></div>
   </section>
@@ -66,7 +73,7 @@
   <!-- 公式リンク -->
   <section class="section">
     <div class="section-head">
-      <h2>公式リンク</h2>
+      <h2 class="sec"><span class="en">LINKS</span><span class="ja">(公式リンク)</span></h2>
     </div>
     <div class="link-grid">
       <a class="link-tile" href="https://befirst.tokyo/" target="_blank" rel="noopener"><span class="link-emoji">🏠</span>公式サイト</a>

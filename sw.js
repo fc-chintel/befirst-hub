@@ -1,12 +1,15 @@
 /* ===== サービスワーカー: オフライン対応とキャッシュ ===== */
-const CACHE = "bfhub-v1";
+const CACHE = "bfhub-v2";
 const SHELL = [
   "./",
   "index.html",
+  "members.html",
   "assets/style.css",
   "assets/app.js",
+  "assets/members.js",
   "manifest.webmanifest",
   "data/events.json",
+  "data/members.json",
 ];
 
 self.addEventListener("install", (e) => {
