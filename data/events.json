@@ -1,0 +1,17 @@
+{
+  "_メモ": "スケジュールはこのファイルを編集すると画面に反映されます。date は 年-月-日 の形式。日付未定のものは approx を true にしてください。",
+  "events": [
+    { "date": "2026-07-01", "title": "10th Single『Missing』リリース", "type": "release" },
+    { "date": "2026-09-25", "title": "WORLD SHOWCASE 2026 – バンコク (Samyan Mitrtown Hall)", "type": "live" },
+    { "date": "2026-09-27", "title": "WORLD SHOWCASE 2026 – 台北 (Legacy TERA)", "type": "live" },
+    { "date": "2026-10-03", "title": "WORLD SHOWCASE 2026 – マニラ (New Frontier Theater)", "type": "live" },
+    { "date": "2026-10-23", "title": "WORLD SHOWCASE 2026 – ニューヨーク (Gramercy Theatre)", "type": "live" },
+    { "date": "2026-11-01", "title": "5周年アルバム『BE:4U』リリース", "type": "release", "approx": true },
+    { "date": "2027-01-11", "title": "DOME TOUR 2027 – 東京ドーム (1日目)", "type": "live" },
+    { "date": "2027-01-12", "title": "DOME TOUR 2027 – 東京ドーム (2日目)", "type": "live" },
+    { "date": "2027-02-13", "title": "DOME TOUR 2027 – みずほPayPayドーム福岡 (1日目)", "type": "live" },
+    { "date": "2027-02-14", "title": "DOME TOUR 2027 – みずほPayPayドーム福岡 (2日目)", "type": "live" },
+    { "date": "2027-03-06", "title": "DOME TOUR 2027 – ベルーナドーム (1日目)", "type": "live" },
+    { "date": "2027-03-07", "title": "DOME TOUR 2027 – ベルーナドーム (2日目)", "type": "live" }
+  ]
+}

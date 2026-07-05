@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>BE:FIRST HUB</title>
+<meta name="description" content="BE:FIRSTの新着ニュース・最新動画・スケジュールをひとつの画面で。">
+<meta name="theme-color" content="#0d0d13">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" type="image/png" sizes="32x32" href="icons/favicon-32.png">
+<link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="BE:FIRST HUB">
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+
+<header class="topbar">
+  <div class="topbar-inner">
+    <h1 class="logo">BE:FIRST <span>HUB</span></h1>
+    <span class="updated" id="updatedAt"></span>
+  </div>
+</header>
+
+<main>
+  <!-- 次のイベントカウントダウン -->
+  <section class="hero" id="hero" hidden>
+    <p class="hero-label">NEXT EVENT</p>
+    <p class="hero-count" id="heroCount"></p>
+    <p class="hero-title" id="heroTitle"></p>
+    <p class="hero-date" id="heroDate"></p>
+  </section>
+
+  <!-- 新着ニュース -->
+  <section class="section">
+    <div class="section-head">
+      <h2>新着ニュース</h2>
+      <a class="more" href="https://befirst.tokyo/news/" target="_blank" rel="noopener">公式サイトへ →</a>
+    </div>
+    <div id="newsList" class="news-list">
+      <p class="loading">読み込み中…</p>
+    </div>
+    <button id="newsMore" class="show-more" hidden>もっと見る</button>
+  </section>
+
+  <!-- 最新動画 -->
+  <section class="section">
+    <div class="section-head">
+      <h2>最新動画</h2>
+      <a class="more" href="https://www.youtube.com/channel/UCi_AquB9uaI3-9xXkuWG7IQ" target="_blank" rel="noopener">チャンネルへ →</a>
+    </div>
+    <div id="videoList" class="video-grid">
+      <p class="loading">読み込み中…</p>
+    </div>
+  </section>
+
+  <!-- 今後の予定 -->
+  <section class="section">
+    <div class="section-head">
+      <h2>今後の予定</h2>
+    </div>
+    <div id="eventList" class="event-list"></div>
+  </section>
+
+  <!-- 公式リンク -->
+  <section class="section">
+    <div class="section-head">
+      <h2>公式リンク</h2>
+    </div>
+    <div class="link-grid">
+      <a class="link-tile" href="https://befirst.tokyo/" target="_blank" rel="noopener"><span class="link-emoji">🏠</span>公式サイト</a>
+      <a class="link-tile" href="https://befirst.tokyo/fanclub/" target="_blank" rel="noopener"><span class="link-emoji">💛</span>BESTY<small>ファンクラブ</small></a>
+      <a class="link-tile" href="https://www.tiktok.com/@befirst_official" target="_blank" rel="noopener"><span class="link-emoji">🎵</span>TikTok</a>
+      <a class="link-tile" href="https://www.instagram.com/befirst__official/" target="_blank" rel="noopener"><span class="link-emoji">📷</span>Instagram</a>
+      <a class="link-tile" href="https://x.com/BEFIRSTofficial" target="_blank" rel="noopener"><span class="link-emoji">✖️</span>X (Twitter)</a>
+      <a class="link-tile" href="https://www.youtube.com/channel/UCi_AquB9uaI3-9xXkuWG7IQ" target="_blank" rel="noopener"><span class="link-emoji">▶️</span>YouTube</a>
+      <a class="link-tile" href="https://page.line.me/619jqnnt" target="_blank" rel="noopener"><span class="link-emoji">💬</span>LINE公式</a>
+      <a class="link-tile" href="https://bmsg.tokyo/" target="_blank" rel="noopener"><span class="link-emoji">🏢</span>BMSG</a>
+      <a class="link-tile" href="https://shop.bmsg.tokyo/" target="_blank" rel="noopener"><span class="link-emoji">🛍️</span>BMSG SHOP</a>
+      <a class="link-tile" href="https://www.befirst-schedule.com/" target="_blank" rel="noopener"><span class="link-emoji">📅</span>出演情報<small>ファンサイト</small></a>
+    </div>
+  </section>
+
+  <footer class="footer">
+    <p>このアプリは個人利用のための非公式ファンアプリです。</p>
+    <p>ニュース・動画は公式サイト / 公式YouTubeの公開情報(RSS)をもとに表示しています。</p>
+  </footer>
+</main>
+
+<script src="assets/app.js"></script>
+</body>
+</html>
