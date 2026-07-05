@@ -104,48 +104,47 @@ main { max-width: 520px; margin: 0 auto; padding: 0 16px 48px; }
   border-bottom-color: var(--gold);
 }
 
-/* ---- カウントダウン ---- */
+/* ---- 次のイベント(コンパクトバー) ---- */
 .hero {
-  position: relative;
-  margin: 22px 0 10px;
-  padding: 26px 20px 24px;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin: 18px 0 0;
+  padding: 10px 14px;
   border-radius: var(--radius);
-  background:
-    radial-gradient(130% 170% at 88% -25%, rgba(217, 179, 106, 0.20), transparent 58%),
-    radial-gradient(130% 170% at 0% 125%, rgba(217, 140, 140, 0.12), transparent 58%),
-    var(--card);
+  background: var(--card);
   border: 1px solid var(--line-gold);
-  box-shadow: 0 12px 34px rgba(0, 0, 0, 0.45);
-  text-align: center;
-  overflow: hidden;
-}
-.hero::after { /* 上辺のゴールドライン */
-  content: "";
-  position: absolute;
-  top: 0; left: 12%; right: 12%;
-  height: 1px;
-  background: linear-gradient(90deg, transparent, var(--gold), transparent);
 }
 .hero-label {
   font-family: var(--disp);
-  font-size: 11px;
-  letter-spacing: 0.45em;
-  padding-left: 0.45em; /* 中央ずれ補正 */
+  font-size: 10px;
+  letter-spacing: 0.3em;
   color: var(--gold);
+  white-space: nowrap;
+  flex-shrink: 0;
 }
+.hero-main {
+  flex: 1;
+  min-width: 0;
+  display: flex;
+  flex-direction: column;
+}
+.hero-title {
+  font-size: 12.5px;
+  font-weight: 700;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.hero-date { font-family: var(--cond); font-size: 11px; color: var(--text-dim); letter-spacing: 0.08em; }
 .hero-count {
   font-family: var(--disp);
-  font-size: 58px;
-  line-height: 1.15;
-  margin: 8px 0 4px;
-  background: linear-gradient(180deg, #fff 30%, var(--gold-2) 100%);
-  -webkit-background-clip: text;
-  background-clip: text;
-  color: transparent;
+  font-size: 20px;
+  color: var(--gold-2);
+  white-space: nowrap;
+  flex-shrink: 0;
 }
-.hero-count small { font-size: 24px; margin-left: 3px; }
-.hero-title { font-size: 15px; font-weight: 700; }
-.hero-date { font-family: var(--cond); font-size: 12px; color: var(--text-dim); margin-top: 3px; letter-spacing: 0.08em; }
+.hero-count small { font-size: 12px; margin-left: 2px; }
 
 /* ---- セクション見出し: EN(日本語) ---- */
 .section { margin-top: 34px; }

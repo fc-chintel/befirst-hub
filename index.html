@@ -31,14 +31,6 @@
 </header>
 
 <main>
-  <!-- 次のイベントカウントダウン -->
-  <section class="hero" id="hero" hidden>
-    <p class="hero-label">NEXT EVENT</p>
-    <p class="hero-count" id="heroCount"></p>
-    <p class="hero-title" id="heroTitle"></p>
-    <p class="hero-date" id="heroDate"></p>
-  </section>
-
   <!-- 新着ニュース -->
   <section class="section">
     <div class="section-head">
@@ -49,6 +41,16 @@
       <p class="loading">読み込み中…</p>
     </div>
     <button id="newsMore" class="show-more" hidden>もっと見る</button>
+  </section>
+
+  <!-- 次のイベント(コンパクト表示) -->
+  <section class="hero" id="hero" hidden>
+    <span class="hero-label">NEXT EVENT</span>
+    <span class="hero-main">
+      <span class="hero-title" id="heroTitle"></span>
+      <span class="hero-date" id="heroDate"></span>
+    </span>
+    <span class="hero-count" id="heroCount"></span>
   </section>
 
   <!-- 最新動画 -->
