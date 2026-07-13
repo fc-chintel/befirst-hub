@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-07-12T21:49:34.883Z",
+  "updatedAt": "2026-07-13T12:05:17.185Z",
   "items": [
+    {
+      "id": "FGWtzBxBEqo",
+      "title": "SHUNTO (BE:FIRST) / Want it -Teaser-",
+      "link": "https://www.youtube.com/watch?v=FGWtzBxBEqo",
+      "date": "2026-07-13T11:00:03+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/FGWtzBxBEqo/hqdefault.jpg",
+      "isShort": false
+    },
     {
       "id": "F8ysJYmlzzY",
       "title": "BE:FIRST 'Scream' -Live from BE:FIRST Stadium Live 2026 We are the “BE:ST”- #BEFIRST",
@@ -15,6 +23,14 @@
       "link": "https://www.youtube.com/watch?v=3eGGwYCI3lg",
       "date": "2026-07-10T11:00:09+00:00",
       "thumbnail": "https://i.ytimg.com/vi/3eGGwYCI3lg/hqdefault.jpg",
+      "isShort": false
+    },
+    {
+      "id": "LS5t8ychTI4",
+      "title": "SHUNTO (BE:FIRST) / Want it -Special Dance Performance-",
+      "link": "https://www.youtube.com/watch?v=LS5t8ychTI4",
+      "date": "2026-07-08T10:10:52+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/LS5t8ychTI4/hqdefault.jpg",
       "isShort": false
     },
     {
