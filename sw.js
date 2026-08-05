@@ -1,5 +1,5 @@
 /* ===== サービスワーカー: オフライン対応とキャッシュ ===== */
-const CACHE = "bfhub-v2";
+const CACHE = "bfhub-v3";
 const SHELL = [
   "./",
   "index.html",
@@ -7,6 +7,8 @@ const SHELL = [
   "assets/style.css",
   "assets/app.js",
   "assets/members.js",
+  "assets/fonts/anton-latin.woff2",
+  "assets/fonts/robotocondensed-latin.woff2",
   "manifest.webmanifest",
   "data/events.json",
   "data/members.json",

@@ -60,38 +60,52 @@ function renderNews(data) {
     box.innerHTML = data.items.slice(0, shown).map((n) => {
       const isNew = lastVisit && new Date(n.date).getTime() > lastVisit;
       const cat = n.categories && n.categories[0] ? n.categories[0] : "";
+      const thumb = n.image
+        ? `<div class="news-thumb"><img src="${esc(n.image)}" alt="" loading="lazy" onerror="this.closest('.news-thumb').remove()"></div>`
+        : "";
       return `<a class="news-item" href="${esc(n.link)}" target="_blank" rel="noopener">
-        <div class="news-meta">
-          <span>${fmtDate(n.date)}</span>
-          ${cat ? `<span class="chip ${chipClass(cat)}">${esc(cat)}</span>` : ""}
-          ${isNew ? '<span class="badge-new">NEW</span>' : ""}
+        <div class="news-body">
+          <div class="news-meta">
+            <span>${fmtDate(n.date)}</span>
+            ${cat ? `<span class="chip ${chipClass(cat)}">${esc(cat)}</span>` : ""}
+            ${isNew ? '<span class="badge-new">NEW</span>' : ""}
+          </div>
+          <div class="news-title">${esc(n.title)}</div>
         </div>
-        <div class="news-title">${esc(n.title)}</div>
+        ${thumb}
       </a>`;
     }).join("");
     moreBtn.hidden = shown >= data.items.length;
+    revealOnScroll();
   };
 
   moreBtn.onclick = () => { shown += NEWS_PAGE_SIZE; draw(); };
   draw();
 }
 
-/* ---- 動画 ---- */
+/* ---- 動画(先頭を大きく + 2列) ---- */
+function videoCard(v, featured) {
+  return `<a class="video-item${featured ? " video-featured" : ""}" href="${esc(v.link)}" target="_blank" rel="noopener">
+    <div class="video-thumb-wrap">
+      <img class="video-thumb" src="${esc(v.thumbnail)}" alt="" loading="lazy">
+      ${v.isShort ? '<span class="video-tag">SHORT</span>' : ""}
+    </div>
+    <div class="video-title">${esc(v.title)}</div>
+    <div class="video-date">${fmtDate(v.date)}</div>
+  </a>`;
+}
+
 function renderVideos(data) {
   const box = document.getElementById("videoList");
   if (!data || !data.items || data.items.length === 0) {
     box.innerHTML = '<p class="loading">動画を読み込めませんでした。</p>';
     return;
   }
-  box.innerHTML = data.items.slice(0, 8).map((v) => `
-    <a class="video-item" href="${esc(v.link)}" target="_blank" rel="noopener">
-      <div class="video-thumb-wrap">
-        <img class="video-thumb" src="${esc(v.thumbnail)}" alt="" loading="lazy">
-        ${v.isShort ? '<span class="video-tag">SHORT</span>' : ""}
-      </div>
-      <div class="video-title">${esc(v.title)}</div>
-      <div class="video-date">${fmtDate(v.date)}</div>
-    </a>`).join("");
+  const items = data.items.slice(0, 9);
+  const [first, ...rest] = items;
+  box.innerHTML =
+    videoCard(first, true) +
+    `<div class="video-grid">${rest.map((v) => videoCard(v, false)).join("")}</div>`;
 }
 
 /* ---- カウントダウン & 予定 ---- */
@@ -108,7 +122,9 @@ function renderEvents(data) {
   if (next) {
     const days = daysUntil(next.date);
     document.getElementById("heroCount").innerHTML =
-      days === 0 ? "本日!" : `あと ${days}<small>日</small>`;
+      days === 0
+        ? '<b class="today">本日!</b>'
+        : `<b>${days}</b><i>${days === 1 ? "DAY TO GO" : "DAYS TO GO"}</i>`;
     document.getElementById("heroTitle").textContent = next.title;
     const d = new Date(next.date + "T00:00:00");
     document.getElementById("heroDate").textContent =
@@ -119,7 +135,8 @@ function renderEvents(data) {
   list.innerHTML = upcoming.map((e) => {
     const d = new Date(e.date + "T00:00:00");
     const days = daysUntil(e.date);
-    return `<div class="event-item">
+    const isNext = e === next;
+    return `<div class="event-item${isNext ? " is-next" : ""}">
       <div class="event-date">
         <span class="d-month">${d.getMonth() + 1}月</span>
         <span class="d-day">${e.approx ? "?" : d.getDate()}</span>
@@ -129,6 +146,37 @@ function renderEvents(data) {
       <div class="event-days">${e.approx ? "" : days === 0 ? "本日" : `あと${days}日`}</div>
     </div>`;
   }).join("");
+
+  revealOnScroll();
+}
+
+/* ---- スクロール表示アニメーション ---- */
+let _io;
+function revealOnScroll() {
+  if (!("IntersectionObserver" in window)) return;
+  if (!_io) {
+    _io = new IntersectionObserver(
+      (entries) => {
+        entries.forEach((en) => {
+          if (en.isIntersecting) {
+            en.target.classList.add("in");
+            _io.unobserve(en.target);
+          }
+        });
+      },
+      { threshold: 0.12, rootMargin: "0px 0px -6% 0px" }
+    );
+  }
+  document
+    .querySelectorAll(
+      ".hero, .news-item, .video-item, .event-item, .link-tile"
+    )
+    .forEach((el, i) => {
+      if (el.classList.contains("reveal")) return;
+      el.classList.add("reveal");
+      el.style.transitionDelay = (i % 6) * 45 + "ms";
+      _io.observe(el);
+    });
 }
 
 /* ---- 起動 ---- */
@@ -142,6 +190,7 @@ function renderEvents(data) {
   renderNews(news);
   renderVideos(videos);
   renderEvents(events);
+  revealOnScroll();
 
   // データ更新日時の表示
   const t = news && news.updatedAt ? new Date(news.updatedAt) : null;
