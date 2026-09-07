@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-09-07T07:57:31.917Z",
+  "updatedAt": "2026-09-07T14:48:45.722Z",
   "items": [
+    {
+      "id": "K3LE1pHbz0M",
+      "title": "BE:FIRST / Missing -from TBS系「CDTVライブ！ライブ！」-",
+      "link": "https://www.youtube.com/watch?v=K3LE1pHbz0M",
+      "date": "2026-09-07T12:00:26+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/K3LE1pHbz0M/hqdefault.jpg",
+      "isShort": false
+    },
     {
       "id": "jcJmErdibTo",
       "title": "BE:FIRST / MTV Unplugged: BE:FIRST -Digest-",
@@ -231,14 +239,6 @@
       "link": "https://www.youtube.com/watch?v=fNU_bu0TzgQ",
       "date": "2026-06-29T09:20:06+00:00",
       "thumbnail": "https://i.ytimg.com/vi/fNU_bu0TzgQ/hqdefault.jpg",
-      "isShort": false
-    },
-    {
-      "id": "Lx84BlpZrl0",
-      "title": "BE:FIRST / Missing -Official Audio-",
-      "link": "https://www.youtube.com/watch?v=Lx84BlpZrl0",
-      "date": "2026-06-28T15:00:06+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/Lx84BlpZrl0/hqdefault.jpg",
       "isShort": false
     }
   ]
