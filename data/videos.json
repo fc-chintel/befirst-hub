@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-09-16T08:18:01.857Z",
+  "updatedAt": "2026-09-16T14:02:34.254Z",
   "items": [
+    {
+      "id": "9EfkMH9X9fA",
+      "title": "BE:FIRST Stadium Live 2026 We are the “BE:ST” -Digest-",
+      "link": "https://www.youtube.com/watch?v=9EfkMH9X9fA",
+      "date": "2026-09-16T10:00:00+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/9EfkMH9X9fA/hqdefault.jpg",
+      "isShort": false
+    },
     {
       "id": "K3LE1pHbz0M",
       "title": "BE:FIRST / Missing -from TBS系「CDTVライブ！ライブ！」-",
@@ -231,14 +239,6 @@
       "link": "https://www.youtube.com/watch?v=I_6m6_Ylyd8",
       "date": "2026-06-29T09:25:06+00:00",
       "thumbnail": "https://i.ytimg.com/vi/I_6m6_Ylyd8/hqdefault.jpg",
-      "isShort": false
-    },
-    {
-      "id": "fNU_bu0TzgQ",
-      "title": "BE:FIRST / Missing -Music Video- (Story ver.)",
-      "link": "https://www.youtube.com/watch?v=fNU_bu0TzgQ",
-      "date": "2026-06-29T09:20:06+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/fNU_bu0TzgQ/hqdefault.jpg",
       "isShort": false
     }
   ]
