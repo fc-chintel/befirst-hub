@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-10-03T14:09:27.211Z",
+  "updatedAt": "2026-10-03T18:32:47.327Z",
   "items": [
+    {
+      "id": "RVcZLGkEihI",
+      "title": "BE:FIRST / BRUCE WAYNE feat. Flo Milli, ATL Jacob -from TBS系「CDTVライブ！ライブ！」-",
+      "link": "https://www.youtube.com/watch?v=RVcZLGkEihI",
+      "date": "2026-10-03T14:30:05+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/RVcZLGkEihI/hqdefault.jpg",
+      "isShort": false
+    },
     {
       "id": "A3C8T6FQD1A",
       "title": "BE:FIRST Stadium Live 2026 We are the “BE:ST” -Viewing Party-",
@@ -231,14 +239,6 @@
       "link": "https://www.youtube.com/shorts/P44SgDqElq8",
       "date": "2026-06-29T10:06:45+00:00",
       "thumbnail": "https://i.ytimg.com/vi/P44SgDqElq8/hqdefault.jpg",
-      "isShort": true
-    },
-    {
-      "id": "LggdJLjqnj0",
-      "title": "BE:FIRST 'Missing' #BF_Missing #BEFIRST",
-      "link": "https://www.youtube.com/shorts/LggdJLjqnj0",
-      "date": "2026-06-29T09:42:28+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/LggdJLjqnj0/hqdefault.jpg",
       "isShort": true
     }
   ]
