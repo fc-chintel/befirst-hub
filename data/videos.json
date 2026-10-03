@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-10-03T00:10:13.803Z",
+  "updatedAt": "2026-10-03T08:53:09.579Z",
   "items": [
+    {
+      "id": "A3C8T6FQD1A",
+      "title": "BE:FIRST Stadium Live 2026 We are the “BE:ST” -Viewing Party-",
+      "link": "https://www.youtube.com/watch?v=A3C8T6FQD1A",
+      "date": "2026-10-01T09:01:15+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/A3C8T6FQD1A/hqdefault.jpg",
+      "isShort": false
+    },
     {
       "id": "9EfkMH9X9fA",
       "title": "BE:FIRST Stadium Live 2026 We are the “BE:ST” -Digest-",
@@ -232,14 +240,6 @@
       "date": "2026-06-29T09:42:28+00:00",
       "thumbnail": "https://i.ytimg.com/vi/LggdJLjqnj0/hqdefault.jpg",
       "isShort": true
-    },
-    {
-      "id": "I_6m6_Ylyd8",
-      "title": "BE:FIRST / Missing -Music Video- (Move ver.)",
-      "link": "https://www.youtube.com/watch?v=I_6m6_Ylyd8",
-      "date": "2026-06-29T09:25:06+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/I_6m6_Ylyd8/hqdefault.jpg",
-      "isShort": false
     }
   ]
 }
