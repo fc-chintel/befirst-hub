@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-10-10T19:07:39.666Z",
+  "updatedAt": "2026-10-11T09:41:50.008Z",
   "items": [
+    {
+      "id": "SnXUiCtbE-E",
+      "title": "BE:FIRST / It’s not a bad life -Special Movie-",
+      "link": "https://www.youtube.com/watch?v=SnXUiCtbE-E",
+      "date": "2026-10-09T05:34:58+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/SnXUiCtbE-E/hqdefault.jpg",
+      "isShort": false
+    },
     {
       "id": "RVcZLGkEihI",
       "title": "BE:FIRST / BRUCE WAYNE feat. Flo Milli, ATL Jacob -from TBS系「CDTVライブ！ライブ！」-",
@@ -232,14 +240,6 @@
       "date": "2026-06-29T10:37:46+00:00",
       "thumbnail": "https://i.ytimg.com/vi/H5k9CLpWrXg/hqdefault.jpg",
       "isShort": false
-    },
-    {
-      "id": "P44SgDqElq8",
-      "title": "BE:FIRST 'Missing' #BF_Missing #BEFIRST",
-      "link": "https://www.youtube.com/shorts/P44SgDqElq8",
-      "date": "2026-06-29T10:06:45+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/P44SgDqElq8/hqdefault.jpg",
-      "isShort": true
     }
   ]
 }
