@@ -1,11 +1,19 @@
 {
-  "updatedAt": "2026-10-14T08:25:01.285Z",
+  "updatedAt": "2026-10-14T14:20:51.485Z",
   "items": [
+    {
+      "id": "KWv1fP44MVU",
+      "title": "BE:FIRST 'It's not a bad life' -Live from BMSG FES’26- #BE_4U #BF_Itsnotabadlife #BEFIRST",
+      "link": "https://www.youtube.com/shorts/KWv1fP44MVU",
+      "date": "2026-10-14T10:25:37+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/KWv1fP44MVU/hqdefault.jpg",
+      "isShort": true
+    },
     {
       "id": "4TBra-M7Ih8",
       "title": "BE:FIRST / It’s not a bad life -Live from BMSG FES’26-",
       "link": "https://www.youtube.com/watch?v=4TBra-M7Ih8",
-      "date": "2026-10-13T17:49:46+00:00",
+      "date": "2026-10-14T10:00:09+00:00",
       "thumbnail": "https://i.ytimg.com/vi/4TBra-M7Ih8/hqdefault.jpg",
       "isShort": false
     },
@@ -232,14 +240,6 @@
       "date": "2026-07-01T13:00:06+00:00",
       "thumbnail": "https://i.ytimg.com/vi/bjNiiDKv2yg/hqdefault.jpg",
       "isShort": false
-    },
-    {
-      "id": "oW5IKVLAoQY",
-      "title": "BE:FIRST 'Missing' #BF_Missing #BEFIRST",
-      "link": "https://www.youtube.com/shorts/oW5IKVLAoQY",
-      "date": "2026-07-01T03:50:35+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/oW5IKVLAoQY/hqdefault.jpg",
-      "isShort": true
     }
   ]
 }
