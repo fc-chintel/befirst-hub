@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-10-13T20:30:02.019Z",
+  "updatedAt": "2026-10-14T08:25:01.285Z",
   "items": [
+    {
+      "id": "4TBra-M7Ih8",
+      "title": "BE:FIRST / It’s not a bad life -Live from BMSG FES’26-",
+      "link": "https://www.youtube.com/watch?v=4TBra-M7Ih8",
+      "date": "2026-10-13T17:49:46+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/4TBra-M7Ih8/hqdefault.jpg",
+      "isShort": false
+    },
     {
       "id": "SnXUiCtbE-E",
       "title": "BE:FIRST / It’s not a bad life -Special Movie-",
@@ -232,14 +240,6 @@
       "date": "2026-07-01T03:50:35+00:00",
       "thumbnail": "https://i.ytimg.com/vi/oW5IKVLAoQY/hqdefault.jpg",
       "isShort": true
-    },
-    {
-      "id": "H5k9CLpWrXg",
-      "title": "BE:FIRST \"Missing\" Release Celebration Livestreams",
-      "link": "https://www.youtube.com/watch?v=H5k9CLpWrXg",
-      "date": "2026-06-29T10:37:46+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/H5k9CLpWrXg/hqdefault.jpg",
-      "isShort": false
     }
   ]
 }
