@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-10-15T08:00:16.181Z",
+  "updatedAt": "2026-10-15T13:58:22.682Z",
   "items": [
+    {
+      "id": "SpDdC910lgM",
+      "title": "BE:FIRST / 夢中 -from フジテレビ系「2025 FNS歌謡祭 第2夜」with 本田響矢-",
+      "link": "https://www.youtube.com/watch?v=SpDdC910lgM",
+      "date": "2026-10-15T12:00:31+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/SpDdC910lgM/hqdefault.jpg",
+      "isShort": false
+    },
     {
       "id": "KWv1fP44MVU",
       "title": "BE:FIRST 'It's not a bad life' -Live from BMSG FES’26- #BE_4U #BF_Itsnotabadlife #BEFIRST",
@@ -231,14 +239,6 @@
       "link": "https://www.youtube.com/watch?v=a1b50_ht97c",
       "date": "2026-07-02T11:00:06+00:00",
       "thumbnail": "https://i.ytimg.com/vi/a1b50_ht97c/hqdefault.jpg",
-      "isShort": false
-    },
-    {
-      "id": "bjNiiDKv2yg",
-      "title": "BE:FIRST / Missing -Dance Practice-",
-      "link": "https://www.youtube.com/watch?v=bjNiiDKv2yg",
-      "date": "2026-07-01T13:00:06+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/bjNiiDKv2yg/hqdefault.jpg",
       "isShort": false
     }
   ]
