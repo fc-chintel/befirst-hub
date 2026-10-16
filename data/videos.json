@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-10-16T07:54:33.815Z",
+  "updatedAt": "2026-10-16T13:45:09.619Z",
   "items": [
+    {
+      "id": "PhwJjKglrJQ",
+      "title": "BMSG FES’26 'WATCH ME' #BMSGFES #BMSG #BF_WATCHME #BEFIRST",
+      "link": "https://www.youtube.com/shorts/PhwJjKglrJQ",
+      "date": "2026-10-16T12:38:47+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/PhwJjKglrJQ/hqdefault.jpg",
+      "isShort": true
+    },
     {
       "id": "SpDdC910lgM",
       "title": "BE:FIRST / 夢中 -from フジテレビ系「2025 FNS歌謡祭 第2夜」with 本田響矢-",
@@ -232,14 +240,6 @@
       "date": "2026-07-02T11:32:13+00:00",
       "thumbnail": "https://i.ytimg.com/vi/0bvnOWMrpLk/hqdefault.jpg",
       "isShort": true
-    },
-    {
-      "id": "a1b50_ht97c",
-      "title": "BE:FIRST / Missing -Behind The Scenes-",
-      "link": "https://www.youtube.com/watch?v=a1b50_ht97c",
-      "date": "2026-07-02T11:00:06+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/a1b50_ht97c/hqdefault.jpg",
-      "isShort": false
     }
   ]
 }
