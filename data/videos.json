@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-10-25T08:07:47.390Z",
+  "updatedAt": "2026-10-25T13:34:08.823Z",
   "items": [
+    {
+      "id": "tv5BWKq4BaQ",
+      "title": "BE:FIRST / Behind The Scenes of Exercise, Diva, #Conbini, for you -Digest-",
+      "link": "https://www.youtube.com/watch?v=tv5BWKq4BaQ",
+      "date": "2026-10-25T10:00:35+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/tv5BWKq4BaQ/hqdefault.jpg",
+      "isShort": false
+    },
     {
       "id": "PhwJjKglrJQ",
       "title": "BMSG FES’26 'WATCH ME' #BMSGFES #BMSG #BF_WATCHME #BEFIRST",
@@ -231,14 +239,6 @@
       "link": "https://www.youtube.com/shorts/0p9q0SxwQDM",
       "date": "2026-07-02T11:33:03+00:00",
       "thumbnail": "https://i.ytimg.com/vi/0p9q0SxwQDM/hqdefault.jpg",
-      "isShort": true
-    },
-    {
-      "id": "0bvnOWMrpLk",
-      "title": "BE:FIRST 'Missing' #FNS歌謡祭夏 #BF_Missing #BEFIRST",
-      "link": "https://www.youtube.com/shorts/0bvnOWMrpLk",
-      "date": "2026-07-02T11:32:13+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/0bvnOWMrpLk/hqdefault.jpg",
       "isShort": true
     }
   ]
