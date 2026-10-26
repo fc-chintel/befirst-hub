@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-10-26T08:32:59.257Z",
+  "updatedAt": "2026-10-26T15:52:07.510Z",
   "items": [
+    {
+      "id": "mj4BYzUv8qE",
+      "title": "2026.11.03 4th Album『BE:4U』#BE_4U #BF_NOWUKNOW #BEFIRST",
+      "link": "https://www.youtube.com/shorts/mj4BYzUv8qE",
+      "date": "2026-10-26T12:36:42+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/mj4BYzUv8qE/hqdefault.jpg",
+      "isShort": true
+    },
+    {
+      "id": "9cJF5r4ot_A",
+      "title": "BE:FIRST / NOW U KNOW -Teaser-",
+      "link": "https://www.youtube.com/watch?v=9cJF5r4ot_A",
+      "date": "2026-10-26T11:00:01+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/9cJF5r4ot_A/hqdefault.jpg",
+      "isShort": false
+    },
     {
       "id": "tv5BWKq4BaQ",
       "title": "BE:FIRST / Behind The Scenes of Exercise, Diva, #Conbini, for you -Digest-",
@@ -223,22 +239,6 @@
       "link": "https://www.youtube.com/shorts/QH5P_vNwm4g",
       "date": "2026-07-04T11:54:37+00:00",
       "thumbnail": "https://i.ytimg.com/vi/QH5P_vNwm4g/hqdefault.jpg",
-      "isShort": true
-    },
-    {
-      "id": "0HIX1JDrEUc",
-      "title": "BE:FIRST 'Missing' SHUNTO w/ DOYOUNG #TREASURE #BF_Missing #BEFIRST",
-      "link": "https://www.youtube.com/shorts/0HIX1JDrEUc",
-      "date": "2026-07-03T10:18:10+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/0HIX1JDrEUc/hqdefault.jpg",
-      "isShort": true
-    },
-    {
-      "id": "0p9q0SxwQDM",
-      "title": "BE:FIRST 'Missing' #FNS歌謡祭夏 #BF_Missing #BEFIRST",
-      "link": "https://www.youtube.com/shorts/0p9q0SxwQDM",
-      "date": "2026-07-02T11:33:03+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/0p9q0SxwQDM/hqdefault.jpg",
       "isShort": true
     }
   ]
