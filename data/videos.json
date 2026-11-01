@@ -1,6 +1,30 @@
 {
-  "updatedAt": "2026-11-01T10:06:04.615Z",
+  "updatedAt": "2026-11-01T19:22:03.209Z",
   "items": [
+    {
+      "id": "DBAmFLYbTWk",
+      "title": "BE:FIRST / NOW U KNOW -Official Audio-",
+      "link": "https://www.youtube.com/watch?v=DBAmFLYbTWk",
+      "date": "2026-11-01T15:07:55+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/DBAmFLYbTWk/hqdefault.jpg",
+      "isShort": false
+    },
+    {
+      "id": "I83-uq6iwcM",
+      "title": "BE:FIRST / NOW U KNOW -Music Video-",
+      "link": "https://www.youtube.com/watch?v=I83-uq6iwcM",
+      "date": "2026-11-01T15:07:49+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/I83-uq6iwcM/hqdefault.jpg",
+      "isShort": false
+    },
+    {
+      "id": "vU4Pgg-sjkA",
+      "title": "2026.11.03 4th Album『BE:4U』#BE_4U #BF_NOWUKNOW #BEFIRST #LEO",
+      "link": "https://www.youtube.com/shorts/vU4Pgg-sjkA",
+      "date": "2026-11-01T10:26:17+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/vU4Pgg-sjkA/hqdefault.jpg",
+      "isShort": true
+    },
     {
       "id": "J-feIj9rx-k",
       "title": "Behind The Scenes of Exercise, Diva, #Conbini, for you -Digest- #BE_4U  #BEFIRST",
@@ -27,7 +51,7 @@
     },
     {
       "id": "lzWQ88cw3VE",
-      "title": "【11/2(月)0時～Music Video公開】BE:FIRST \"NOW U KNOW\" STATION",
+      "title": "BE:FIRST \"NOW U KNOW\" STATION",
       "link": "https://www.youtube.com/watch?v=lzWQ88cw3VE",
       "date": "2026-10-30T23:46:58+00:00",
       "thumbnail": "https://i.ytimg.com/vi/lzWQ88cw3VE/hqdefault.jpg",
@@ -215,30 +239,6 @@
       "link": "https://www.youtube.com/watch?v=2sML88RhhUM",
       "date": "2026-08-20T10:00:31+00:00",
       "thumbnail": "https://i.ytimg.com/vi/2sML88RhhUM/hqdefault.jpg",
-      "isShort": false
-    },
-    {
-      "id": "-BaCocws2v8",
-      "title": "Thank you for coming out in the rain! #summersonic #BF_Missing #BEFIRST ©︎ of SUMMER SONIC 2026",
-      "link": "https://www.youtube.com/shorts/-BaCocws2v8",
-      "date": "2026-08-16T06:37:09+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/-BaCocws2v8/hqdefault.jpg",
-      "isShort": true
-    },
-    {
-      "id": "fGaJ5s3muv4",
-      "title": "【期間限定公開】BE:FIRST Stadium Live 2026 We are the “BE:ST” -BMSG MUSIC SHOP盤 特典映像Digest-",
-      "link": "https://www.youtube.com/watch?v=fGaJ5s3muv4",
-      "date": "2026-07-26T03:00:06+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/fGaJ5s3muv4/hqdefault.jpg",
-      "isShort": false
-    },
-    {
-      "id": "RpsqDnYHkIU",
-      "title": "BE:FIRST / Boom Boom Back - Live from BE:FIRST Stadium Live 2026 We are the “BE:ST” -",
-      "link": "https://www.youtube.com/watch?v=RpsqDnYHkIU",
-      "date": "2026-07-21T10:00:13+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/RpsqDnYHkIU/hqdefault.jpg",
       "isShort": false
     }
   ]
