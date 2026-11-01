@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T19:07:00.010Z",
+  "updatedAt": "2026-11-01T10:06:04.615Z",
   "items": [
     {
       "id": "J-feIj9rx-k",
@@ -16,6 +16,22 @@
       "date": "2026-10-31T11:35:04+00:00",
       "thumbnail": "https://i.ytimg.com/vi/Jt3Xi74fPQk/hqdefault.jpg",
       "isShort": true
+    },
+    {
+      "id": "KkP-Foh68OQ",
+      "title": "BE:FIRST / 5th Anniversary Special Movie",
+      "link": "https://www.youtube.com/watch?v=KkP-Foh68OQ",
+      "date": "2026-10-31T11:14:54+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/KkP-Foh68OQ/hqdefault.jpg",
+      "isShort": false
+    },
+    {
+      "id": "lzWQ88cw3VE",
+      "title": "【11/2(月)0時～Music Video公開】BE:FIRST \"NOW U KNOW\" STATION",
+      "link": "https://www.youtube.com/watch?v=lzWQ88cw3VE",
+      "date": "2026-10-30T23:46:58+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/lzWQ88cw3VE/hqdefault.jpg",
+      "isShort": false
     },
     {
       "id": "jqFMYFIOl_w",
@@ -224,22 +240,6 @@
       "date": "2026-07-21T10:00:13+00:00",
       "thumbnail": "https://i.ytimg.com/vi/RpsqDnYHkIU/hqdefault.jpg",
       "isShort": false
-    },
-    {
-      "id": "y06Uw7cG5uk",
-      "title": "[BE:FIRST 'Missing'] MANATO w/ GOICHI #BEFIRST #BF_Missing #BEFIRST",
-      "link": "https://www.youtube.com/shorts/y06Uw7cG5uk",
-      "date": "2026-07-19T12:42:49+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/y06Uw7cG5uk/hqdefault.jpg",
-      "isShort": true
-    },
-    {
-      "id": "9SV0DQxnArU",
-      "title": "BE:FIRST 'Missing' #BF_Missing #acapella #BEFIRST #JUNON",
-      "link": "https://www.youtube.com/shorts/9SV0DQxnArU",
-      "date": "2026-07-17T13:37:31+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/9SV0DQxnArU/hqdefault.jpg",
-      "isShort": true
     }
   ]
 }
