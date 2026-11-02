@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-11-01T19:22:03.209Z",
+  "updatedAt": "2026-11-02T10:34:50.279Z",
   "items": [
+    {
+      "id": "C9OExbmWikM",
+      "title": "BE:FIRST / BE:4U -Album Digest-",
+      "link": "https://www.youtube.com/watch?v=C9OExbmWikM",
+      "date": "2026-11-02T03:00:27+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/C9OExbmWikM/hqdefault.jpg",
+      "isShort": false
+    },
+    {
+      "id": "PgX2RafEtZs",
+      "title": "BE:FIRST 'NOW U KNOW' -Music Video- #BE_4U #BF_NOWUKNOW #BEFIRST",
+      "link": "https://www.youtube.com/shorts/PgX2RafEtZs",
+      "date": "2026-11-02T01:30:43+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/PgX2RafEtZs/hqdefault.jpg",
+      "isShort": true
+    },
     {
       "id": "DBAmFLYbTWk",
       "title": "BE:FIRST / NOW U KNOW -Official Audio-",
@@ -223,22 +239,6 @@
       "link": "https://www.youtube.com/watch?v=xz3uRtZEv1k",
       "date": "2026-08-24T12:30:16+00:00",
       "thumbnail": "https://i.ytimg.com/vi/xz3uRtZEv1k/hqdefault.jpg",
-      "isShort": false
-    },
-    {
-      "id": "9-k2mXtycmM",
-      "title": "BE:FIRST \"Missing\" Station",
-      "link": "https://www.youtube.com/watch?v=9-k2mXtycmM",
-      "date": "2026-08-21T11:39:32+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/9-k2mXtycmM/hqdefault.jpg",
-      "isShort": false
-    },
-    {
-      "id": "2sML88RhhUM",
-      "title": "BE:FIRST / Missing -from 日本テレビ系「夜の音 -TOKYO MIDNIGHT MUSIC-」",
-      "link": "https://www.youtube.com/watch?v=2sML88RhhUM",
-      "date": "2026-08-20T10:00:31+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/2sML88RhhUM/hqdefault.jpg",
       "isShort": false
     }
   ]
