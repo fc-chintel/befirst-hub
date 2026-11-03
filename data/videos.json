@@ -1,12 +1,28 @@
 {
-  "updatedAt": "2026-11-03T10:28:43.639Z",
+  "updatedAt": "2026-11-03T20:46:25.808Z",
   "items": [
+    {
+      "id": "YMEgEOYkgTs",
+      "title": "Now you know BE:FIRST! #BEFIRST_5thAnniv #BE_4U #BF_NOWUKNOW #BEFIRST",
+      "link": "https://www.youtube.com/shorts/YMEgEOYkgTs",
+      "date": "2026-11-03T15:46:33+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/YMEgEOYkgTs/hqdefault.jpg",
+      "isShort": true
+    },
     {
       "id": "5Z20kDcg_QY",
       "title": "BE:FIRST 5th Anniversary Party & New Album “BE:4U” Release Celebration Livestreams",
       "link": "https://www.youtube.com/watch?v=5Z20kDcg_QY",
-      "date": "2026-11-02T04:37:32+00:00",
+      "date": "2026-11-03T12:35:28+00:00",
       "thumbnail": "https://i.ytimg.com/vi/5Z20kDcg_QY/hqdefault.jpg",
+      "isShort": false
+    },
+    {
+      "id": "XfFkphWoPvM",
+      "title": "BE:FIRST / NOW U KNOW -Dance Performance-",
+      "link": "https://www.youtube.com/watch?v=XfFkphWoPvM",
+      "date": "2026-11-03T12:30:10+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/XfFkphWoPvM/hqdefault.jpg",
       "isShort": false
     },
     {
@@ -96,14 +112,6 @@
       "date": "2026-10-30T11:04:14+00:00",
       "thumbnail": "https://i.ytimg.com/vi/bD9xaa3G2_0/hqdefault.jpg",
       "isShort": true
-    },
-    {
-      "id": "XfFkphWoPvM",
-      "title": "BE:FIRST / NOW U KNOW -Dance Performance-",
-      "link": "https://www.youtube.com/watch?v=XfFkphWoPvM",
-      "date": "2026-10-30T09:07:00+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/XfFkphWoPvM/hqdefault.jpg",
-      "isShort": false
     },
     {
       "id": "hCI9O_Qsa-Y",
@@ -231,14 +239,6 @@
       "link": "https://www.youtube.com/watch?v=9EfkMH9X9fA",
       "date": "2026-09-16T10:00:00+00:00",
       "thumbnail": "https://i.ytimg.com/vi/9EfkMH9X9fA/hqdefault.jpg",
-      "isShort": false
-    },
-    {
-      "id": "K3LE1pHbz0M",
-      "title": "BE:FIRST / Missing -from TBS系「CDTVライブ！ライブ！」-",
-      "link": "https://www.youtube.com/watch?v=K3LE1pHbz0M",
-      "date": "2026-09-07T12:00:26+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/K3LE1pHbz0M/hqdefault.jpg",
       "isShort": false
     }
   ]
