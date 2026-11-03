@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-02T22:59:28.029Z",
+  "updatedAt": "2026-11-03T10:28:43.639Z",
   "items": [
+    {
+      "id": "5Z20kDcg_QY",
+      "title": "BE:FIRST 5th Anniversary Party & New Album “BE:4U” Release Celebration Livestreams",
+      "link": "https://www.youtube.com/watch?v=5Z20kDcg_QY",
+      "date": "2026-11-02T04:37:32+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/5Z20kDcg_QY/hqdefault.jpg",
+      "isShort": false
+    },
     {
       "id": "C9OExbmWikM",
       "title": "BE:FIRST / BE:4U -Album Digest-",
@@ -88,6 +96,14 @@
       "date": "2026-10-30T11:04:14+00:00",
       "thumbnail": "https://i.ytimg.com/vi/bD9xaa3G2_0/hqdefault.jpg",
       "isShort": true
+    },
+    {
+      "id": "XfFkphWoPvM",
+      "title": "BE:FIRST / NOW U KNOW -Dance Performance-",
+      "link": "https://www.youtube.com/watch?v=XfFkphWoPvM",
+      "date": "2026-10-30T09:07:00+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/XfFkphWoPvM/hqdefault.jpg",
+      "isShort": false
     },
     {
       "id": "hCI9O_Qsa-Y",
@@ -223,22 +239,6 @@
       "link": "https://www.youtube.com/watch?v=K3LE1pHbz0M",
       "date": "2026-09-07T12:00:26+00:00",
       "thumbnail": "https://i.ytimg.com/vi/K3LE1pHbz0M/hqdefault.jpg",
-      "isShort": false
-    },
-    {
-      "id": "jcJmErdibTo",
-      "title": "BE:FIRST / MTV Unplugged: BE:FIRST -Digest-",
-      "link": "https://www.youtube.com/watch?v=jcJmErdibTo",
-      "date": "2026-08-26T11:00:35+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/jcJmErdibTo/hqdefault.jpg",
-      "isShort": false
-    },
-    {
-      "id": "xz3uRtZEv1k",
-      "title": "BE:FIRST / Why, Why -Lyric Video-",
-      "link": "https://www.youtube.com/watch?v=xz3uRtZEv1k",
-      "date": "2026-08-24T12:30:16+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/xz3uRtZEv1k/hqdefault.jpg",
       "isShort": false
     }
   ]
