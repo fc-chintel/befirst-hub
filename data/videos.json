@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-03T20:46:25.808Z",
+  "updatedAt": "2026-11-04T21:03:37.496Z",
   "items": [
+    {
+      "id": "uFedXGeJf78",
+      "title": "BE:FIRST / NOW U KNOW -Dance Practice-",
+      "link": "https://www.youtube.com/watch?v=uFedXGeJf78",
+      "date": "2026-11-04T11:00:08+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/uFedXGeJf78/hqdefault.jpg",
+      "isShort": false
+    },
     {
       "id": "YMEgEOYkgTs",
       "title": "Now you know BE:FIRST! #BEFIRST_5thAnniv #BE_4U #BF_NOWUKNOW #BEFIRST",
@@ -114,6 +122,14 @@
       "isShort": true
     },
     {
+      "id": "3iVN0eSueco",
+      "title": "BE:FIRST / NOW U KNOW -Behind The Scenes-",
+      "link": "https://www.youtube.com/watch?v=3iVN0eSueco",
+      "date": "2026-10-30T09:11:44+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/3iVN0eSueco/hqdefault.jpg",
+      "isShort": false
+    },
+    {
       "id": "hCI9O_Qsa-Y",
       "title": "Behind The Scenes of Exercise, Diva, #Conbini, for you -Digest- #BE_4U  #BEFIRST",
       "link": "https://www.youtube.com/shorts/hCI9O_Qsa-Y",
@@ -223,22 +239,6 @@
       "link": "https://www.youtube.com/watch?v=RVcZLGkEihI",
       "date": "2026-10-03T14:30:05+00:00",
       "thumbnail": "https://i.ytimg.com/vi/RVcZLGkEihI/hqdefault.jpg",
-      "isShort": false
-    },
-    {
-      "id": "A3C8T6FQD1A",
-      "title": "BE:FIRST Stadium Live 2026 We are the “BE:ST” -Viewing Party-",
-      "link": "https://www.youtube.com/watch?v=A3C8T6FQD1A",
-      "date": "2026-10-01T09:01:15+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/A3C8T6FQD1A/hqdefault.jpg",
-      "isShort": false
-    },
-    {
-      "id": "9EfkMH9X9fA",
-      "title": "BE:FIRST Stadium Live 2026 We are the “BE:ST” -Digest-",
-      "link": "https://www.youtube.com/watch?v=9EfkMH9X9fA",
-      "date": "2026-09-16T10:00:00+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/9EfkMH9X9fA/hqdefault.jpg",
       "isShort": false
     }
   ]
