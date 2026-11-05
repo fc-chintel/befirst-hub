@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-05T10:22:45.362Z",
+  "updatedAt": "2026-11-05T21:20:16.494Z",
   "items": [
+    {
+      "id": "3iVN0eSueco",
+      "title": "BE:FIRST / NOW U KNOW -Behind The Scenes-",
+      "link": "https://www.youtube.com/watch?v=3iVN0eSueco",
+      "date": "2026-11-05T11:00:08+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/3iVN0eSueco/hqdefault.jpg",
+      "isShort": false
+    },
     {
       "id": "uFedXGeJf78",
       "title": "BE:FIRST / NOW U KNOW -Dance Practice-",
@@ -120,14 +128,6 @@
       "date": "2026-10-30T11:04:14+00:00",
       "thumbnail": "https://i.ytimg.com/vi/bD9xaa3G2_0/hqdefault.jpg",
       "isShort": true
-    },
-    {
-      "id": "3iVN0eSueco",
-      "title": "BE:FIRST / NOW U KNOW -Behind The Scenes-",
-      "link": "https://www.youtube.com/watch?v=3iVN0eSueco",
-      "date": "2026-10-30T09:11:44+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/3iVN0eSueco/hqdefault.jpg",
-      "isShort": false
     },
     {
       "id": "hCI9O_Qsa-Y",
