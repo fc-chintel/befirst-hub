@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-11-08T09:54:29.153Z",
+  "updatedAt": "2026-11-08T19:20:29.094Z",
   "items": [
+    {
+      "id": "4bUvm6LYRkg",
+      "title": "BE:FIRST 'NOW U KNOW' #BE_4U #BF_NOWUKNOW #BEFIRST",
+      "link": "https://www.youtube.com/shorts/4bUvm6LYRkg",
+      "date": "2026-11-08T12:02:29+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/4bUvm6LYRkg/hqdefault.jpg",
+      "isShort": true
+    },
+    {
+      "id": "73PTMvuCSYs",
+      "title": "NOU U KNOW? #BE_4U #BF_NOWUKNOW #BEFIRST",
+      "link": "https://www.youtube.com/shorts/73PTMvuCSYs",
+      "date": "2026-11-08T11:56:51+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/73PTMvuCSYs/hqdefault.jpg",
+      "isShort": true
+    },
     {
       "id": "3iVN0eSueco",
       "title": "BE:FIRST / NOW U KNOW -Behind The Scenes-",
@@ -223,22 +239,6 @@
       "link": "https://www.youtube.com/watch?v=4TBra-M7Ih8",
       "date": "2026-10-14T10:00:09+00:00",
       "thumbnail": "https://i.ytimg.com/vi/4TBra-M7Ih8/hqdefault.jpg",
-      "isShort": false
-    },
-    {
-      "id": "SnXUiCtbE-E",
-      "title": "BE:FIRST / It’s not a bad life -Special Movie-",
-      "link": "https://www.youtube.com/watch?v=SnXUiCtbE-E",
-      "date": "2026-10-11T15:00:08+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/SnXUiCtbE-E/hqdefault.jpg",
-      "isShort": false
-    },
-    {
-      "id": "RVcZLGkEihI",
-      "title": "BE:FIRST / BRUCE WAYNE feat. Flo Milli, ATL Jacob -from TBS系「CDTVライブ！ライブ！」-",
-      "link": "https://www.youtube.com/watch?v=RVcZLGkEihI",
-      "date": "2026-10-03T14:30:05+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/RVcZLGkEihI/hqdefault.jpg",
       "isShort": false
     }
   ]
