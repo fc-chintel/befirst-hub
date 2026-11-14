@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-14T09:50:00.506Z",
+  "updatedAt": "2026-11-14T19:43:01.983Z",
   "items": [
+    {
+      "id": "eixYdzoQ9Do",
+      "title": "BE:FIRST 'NOW U KNOW' #BE_4U #BF_NOWUKNOW #BEFIRST",
+      "link": "https://www.youtube.com/shorts/eixYdzoQ9Do",
+      "date": "2026-11-14T11:00:05+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/eixYdzoQ9Do/hqdefault.jpg",
+      "isShort": true
+    },
     {
       "id": "VkX3oC6g3h4",
       "title": "BE:FIRST / NOW U KNOW -from TBS系「CDTVライブ！ライブ！」-",
@@ -232,14 +240,6 @@
       "date": "2026-10-15T12:00:31+00:00",
       "thumbnail": "https://i.ytimg.com/vi/SpDdC910lgM/hqdefault.jpg",
       "isShort": false
-    },
-    {
-      "id": "KWv1fP44MVU",
-      "title": "BE:FIRST 'It's not a bad life' -Live from BMSG FES’26- #BE_4U #BF_Itsnotabadlife #BEFIRST",
-      "link": "https://www.youtube.com/shorts/KWv1fP44MVU",
-      "date": "2026-10-14T10:25:37+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/KWv1fP44MVU/hqdefault.jpg",
-      "isShort": true
     }
   ]
 }
