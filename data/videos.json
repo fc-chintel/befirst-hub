@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-14T19:43:01.983Z",
+  "updatedAt": "2026-11-15T10:25:31.419Z",
   "items": [
+    {
+      "id": "jv8PhuN2voo",
+      "title": "BE:FIRST 'NOW U KNOW' #LEO w/ #豆原一成 #JO1 #BF_NOWUKNOW #BEFIRST",
+      "link": "https://www.youtube.com/shorts/jv8PhuN2voo",
+      "date": "2026-11-15T10:07:12+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/jv8PhuN2voo/hqdefault.jpg",
+      "isShort": true
+    },
     {
       "id": "eixYdzoQ9Do",
       "title": "BE:FIRST 'NOW U KNOW' #BE_4U #BF_NOWUKNOW #BEFIRST",
@@ -232,14 +240,6 @@
       "date": "2026-10-16T12:38:47+00:00",
       "thumbnail": "https://i.ytimg.com/vi/PhwJjKglrJQ/hqdefault.jpg",
       "isShort": true
-    },
-    {
-      "id": "SpDdC910lgM",
-      "title": "BE:FIRST / 夢中 -from フジテレビ系「2025 FNS歌謡祭 第2夜」with 本田響矢-",
-      "link": "https://www.youtube.com/watch?v=SpDdC910lgM",
-      "date": "2026-10-15T12:00:31+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/SpDdC910lgM/hqdefault.jpg",
-      "isShort": false
     }
   ]
 }
