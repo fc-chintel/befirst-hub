@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-16T23:38:47.148Z",
+  "updatedAt": "2026-11-17T11:29:39.619Z",
   "items": [
+    {
+      "id": "VUJDBi5PyBA",
+      "title": "BE:FIRST 'NOW U KNOW' #SOTA w/ #K #andTEAM #BF_NOWUKNOW #BEFIRST",
+      "link": "https://www.youtube.com/shorts/VUJDBi5PyBA",
+      "date": "2026-11-17T10:08:03+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/VUJDBi5PyBA/hqdefault.jpg",
+      "isShort": true
+    },
     {
       "id": "jv8PhuN2voo",
       "title": "BE:FIRST 'NOW U KNOW' #LEO w/ #豆原一成 #JO1 #BF_NOWUKNOW #BEFIRST",
@@ -232,14 +240,6 @@
       "date": "2026-10-25T10:00:35+00:00",
       "thumbnail": "https://i.ytimg.com/vi/tv5BWKq4BaQ/hqdefault.jpg",
       "isShort": false
-    },
-    {
-      "id": "PhwJjKglrJQ",
-      "title": "BMSG FES’26 'WATCH ME' #BMSGFES #BMSG #BF_WATCHME #BEFIRST",
-      "link": "https://www.youtube.com/shorts/PhwJjKglrJQ",
-      "date": "2026-10-16T12:38:47+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/PhwJjKglrJQ/hqdefault.jpg",
-      "isShort": true
     }
   ]
 }
